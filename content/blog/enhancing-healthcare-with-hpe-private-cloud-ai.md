@@ -16,7 +16,7 @@ Now you're probably wondering, what does this have to do with HPE Private Cloud 
 
 \[INSERT IMAGE FROM APPLICATION HERE]
 
-We developed TriageAI to use the latest in open-source, domain specific models to solve common issues we encounter (as patients or as medical personnel) when we are unfortunate enough to visit the emergency room.  Let me make one thing clear from the beginning - all AI outputs delivered by AI-assisted healthcare applications require clinical validation. TriageAI was designed to assist healthcare professionals increase patient healthcare experience through the following:
+We developed TriageAI to use the latest in open-source, domain specific models to solve common issues we encounter (as patients or as medical personnel) when we are unfortunate enough to visit the emergency room.  Let me make one thing clear from the beginning - all outputs delivered by AI-assisted healthcare applications require clinical validation. TriageAI was designed to assist healthcare professionals increase patient healthcare experience through the following:
 
 **1. Patient Translation Service**
 
@@ -48,4 +48,13 @@ So now you know what the application can do, let us show you what it's made of. 
 
 ## HPE Private Cloud AI
 
-HPE Private Cloud AI provides a turnkey AI application development platform for private enterprises and service providers, including hospitals and clinics. All the hardware, software and integration services required to get started on AI-enhanced application development
+HPE Private Cloud AI provides an on-premise, turnkey, AI application development platform for private enterprises and service providers. All the hardware, software and implementation services required to develop your pipeline of AI-enhanced applications is delivered out the box. This includes a variety of curated, vendor-supported, open-source data engineering, data analytics and data science tools covering the entire ML Ops lifecycle, including:
+
+* Data Preparation
+* Model Training
+* Model Tuning
+* Model Registration
+* Model Serving/Inference
+* Model Observability
+
+Since the prototype TriageAI application was built solely with
