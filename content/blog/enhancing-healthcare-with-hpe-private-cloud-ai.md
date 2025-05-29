@@ -57,4 +57,4 @@ HPE Private Cloud AI provides an on-premise, turnkey, AI application development
 * Model Serving/Inference
 * Model Observability
 
-Since the prototype TriageAI application was built solely with
+Since the prototype TriageAI application was built solely with  .... let me talk you through the process of developing this application from scratch ....
