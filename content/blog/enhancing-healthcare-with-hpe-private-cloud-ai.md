@@ -40,12 +40,12 @@ Our AI-assisted diagnosis capability extends to pattern recognition in X-Rays us
 
 **Under the hood**
 
-So now you know what the application can do, let us show you what it's made of.
+So now you know what the application can do, let us show you what it's made of. First let me make clear that this entire application is developed and delivered on-premise - with highly-confidential patient data it's essential that hospitals and clinics retain full data sovereignty in all of their applications that may deal with sensitive patient data. Second, the prototype application is entirely developed and hosted on HPE Private Cloud AI, using four core models as outlined in the below architecture overview:
 
 [IMPORTANT NOTES:
 
 \- DATA SOVEREIGNTY - ALL ON PREMISE!!!!] 
 
-
-
 ## HPE Private Cloud AI
+
+HPE Private Cloud AI provides a turnkey AI application development platform for private enterprises and service providers, including hospitals and clinics. All the hardware, software and integration services required to get started on AI-enhanced application development
