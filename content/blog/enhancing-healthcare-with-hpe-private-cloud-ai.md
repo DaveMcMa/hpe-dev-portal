@@ -12,25 +12,29 @@ Long story short, I'm lucky to say that this was the last time I was in the hosp
 
 Now you're probably wondering, what does this have to do with HPE Private Cloud AI. Well I'm a firm believer that through emerging AI-enriched applications we can support the healthcare industry to improve the experience of patients and medical practitioners alike. Exciting new technology is essentially worthless if we can't use it to enhance our day-to-day living standards, the way we live and work. To this end, I undertook the task to build a prototype application using domain specific AI models as a showcase for HOW we can potentially use these technologies to enhance the triage experience for patients, doctors and nurses.  
 
-## Introducing TriageAI 
+## Introducing TriageAI powered by HPE Private Cloud AI
 
 \[INSERT IMAGE FROM APPLICATION HERE]
 
-We developed TriageAI to use the latest in open-source, domain specific models to solve common issues we all encounter when we are unfortunate enough to visit the emergency room. 
+We developed TriageAI to use the latest in open-source, domain specific models to solve common issues we encounter (as patients or as medical personnel) when we are unfortunate enough to visit the emergency room. 
 
-1. Patient Translation Service
+**1. Patient Translation Service**
 
+With many people displaced due to war and migration, across Europe many patients and healthcare professionals are not capable of understanding eachother due to language barriers. Of course there are publically available, online translation services - but for sensitive patient data it's imperative that hospitals can provide a translation service with full confidentiality and without exposing patient information to the outside world. Our translation service delivered via TriageAI is designed to provide translation between just about any language one may encounter.
 
+**2. Transcription service for Medical Practitioners**
 
-2. Transcription service for Medical Practitioners
+Manual note-taking and record keeping is simply too cumbersome for the modern healthcare professional. Their skills are better used to treat patients to the best of their ability. Triage AI provides a dictation service where medical personnel can record their notes via microphone (on a smartphone for example) which get's automatically transcribed and structured.
 
+\[INSERT EXAMPLE HERE]
 
+**3. AI Assisted diagnosis based on medical examination**
 
-3. AI Assisted diagnosis based on medical examination
+We can then submit these structured notes to a domain-specific reasoning model for AI-assisted diagnosis. This allows medical practitioners to very quickly verify 
 
+Once diagnosis is complete, the data is structured and saved to a database further reducing the need for medical practitioners to spend time on manual record keeping activities. 
 
-
-4. AI Assisted diagnosis based on X-Ray
+**4. AI Assisted diagnosis based on X-Ray**
 
 
 
